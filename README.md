@@ -1,4 +1,7 @@
 ﻿# hello-world
+2020-01-24 First Test of Webhook triggering Jenkins on my machine
+
+
 Erster Test
 Es ist So 11.2.18 und ich habe a bissl Zeit und schau mir Git an.
 
